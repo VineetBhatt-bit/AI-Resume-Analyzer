@@ -1,0 +1,21 @@
+.card {
+    background: linear-gradient(145deg, #1c1f26, #111318);
+    padding: 20px;
+    border-radius: 18px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+
+h3 {
+    color: #FFD700;
+}
+p {
+    color: #FFFFFF;
+    line-height: 1.6;
+}
+body {
+    background-color: #121212;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
